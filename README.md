@@ -14,7 +14,7 @@
 
 # 安装与使用
 ## 1.克隆仓库并进入项目目录：
-git clone https://github.com/note-zrx/Audio-retrieval-system-zrx.git
+git clone https://github.com/note-zrx/Audio-retrieval-system-zrx.git  
 cd Audio-retrieval-system-zrx
 ## 2.构建声纹数据库：
 python ad_collect.py        # 收集并预处理音乐库音频
